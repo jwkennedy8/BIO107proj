@@ -19,10 +19,8 @@ William Smith was an English Geologist who was known for creating a geologic map
 
 <iframe
  src="assets/map_of_england.png"
- width="800"
- height="600"
- frameborder="0"
- ></iframe>
+ style="width: 100%; height: auto; aspect-ratio: 16/9; border: none;" scrolling="no">
+ </iframe>
 
 
 # Smith's contributions
@@ -36,10 +34,8 @@ Smith's technique of using fossils to date rock layers is still relevant today a
 
 <iframe
  src="assets/key_index_fossils.png"
- width="800"
- height="600"
- frameborder="0"
- ></iframe>
+ style="width: 100%; height: auto; aspect-ratio: 16/9; border: none;" scrolling="no">
+ </iframe>
 
 # Influence on Darwin
 
