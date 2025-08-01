@@ -17,13 +17,29 @@ Created by: Jack Kennedy
 
 William Smith was an English Geologist who was known for creating a geologic map of England. He was able to construct a map by leveraging his knowledge of patterns in rock layers from his time working on canals. Most significantly, he was the first geologist to use fossils to determine ages of rock layers (UC Museum of Paleontology, 1996). His contributions were later used and expanded upon by Charles Darwin and Charles Lyell in the fields of evolutionary biology and geology respectively. 
 
+<iframe
+ src="assets/map_of_england.png"
+ width="800"
+ height="600"
+ frameborder="0"
+ ></iframe>
+
+
 # Smith's contributions
 
 Smith came from a relatively poor small family of farmers so he initially did not have the education or resources to create a complete geologic map of England. When he eventually did publish his map in 1815, he had as many as 400 people supporting him financially as travelling and conducting research across England was such a large project. His beginnings in the field of geology came from being a surveyors assistant starting from the age of 18. Then in the 1790’s he worked for a canal company in Bath, England. As part of his work for the company, he travelled to observe other work done on canals across the country. His observations of rock stratification of the canals as well as patterns of fossils in the layers enabled him to start work on documenting rock layers to create a geologic map of Bath and the surrounding area. The document he wrote was called “table of strata in the vicinity of Bath” which was considered to be groundbreaking in the field of geology,  “...it was for this that William Smith became known as one of the principal founders of the Science of Geology” (Pickford, 1969). Smith later gifted this document to the Geological Society of London where it was displayed until the 1980’s. 
 
+
 # Key Index Fossils
 
 Smith's technique of using fossils to date rock layers is still relevant today and it is known as the principle of faunal succession. In practice, Geologists use fossils from organisms that are known to have existed at a specific period of time which tells them about the rock layer in which they formed. These are called Key Index Fossils or just Index Fossils. These fossils are characterized by only forming in a short period of time relative to the geologic timescale. Ideally, Index Fossils are widespread and also abundant which would make finding the fossil easier and also enable more rock layers to be dated around the world. For example, fossils from Trilobites are popular index fossils because they evolved very quickly and existed between 521 to 252 million years ago (Geologyin, 2024). Although it is a long period of time, on a geological timescale having many fossils that are exclusively from this time period is useful since their existence almost perfectly lines up with the Paleozoic era. 
+
+<iframe
+ src="assets/key_index_fossils.png"
+ width="800"
+ height="600"
+ frameborder="0"
+ ></iframe>
 
 # Influence on Darwin
 
@@ -41,14 +57,19 @@ William Smith’s work in the context of the contributions of Lyell and Darwin i
 
 Darwin, C. (1859). On the Origin of Species. On the geological succession of organic beings        
 https://www.gutenberg.org/files/2009/2009-h/2009-h.htm#link2HCH0011
+
 Geologyin. (2024). Index Fossils: Definition, Importance, Types.
 https://www.geologyin.com/2024/09/index-fossils-definition-importance.html
+
 Lyell, C.(1853) Principles of Geology, 9th Edition. 
-https://archive.org/details/PrinciplesOfGeology9thEd.1853 
+https://archive.org/details/PrinciplesOfGeology9thEd.1853
+
 Pickford, R. (1969). William Smith: Father of English Geology. Bath Royal Literary and 
 Scientific Institution https://web.archive.org/web/20140201164625/http://www.brlsi.org/node/18152
+
 Smith William. (1799). Table of Strata in the Vicinity of Bath. The Geological Society of 
-London.https://www.geolsoc.org.uk/the-library/online-exhibitions/william-strata-smith/stratigraphical-theories/table-of-strata-in-the-vicinity-of-bath-1799/ 
+London.https://www.geolsoc.org.uk/the-library/online-exhibitions/william-strata-smith/stratigraphical-theories/table-of-strata-in-the-vicinity-of-bath-1799/
+
 UC Museum of Paleontology. (1996). ‘William Smith (1769-1839)’.
 www.ucmp.berkeley.edu
 
