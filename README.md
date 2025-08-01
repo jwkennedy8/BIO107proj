@@ -17,10 +17,7 @@ Created by: Jack Kennedy
 
 William Smith was an English Geologist who was known for creating a geologic map of England. He was able to construct a map by leveraging his knowledge of patterns in rock layers from his time working on canals. Most significantly, he was the first geologist to use fossils to determine ages of rock layers (UC Museum of Paleontology, 1996). His contributions were later used and expanded upon by Charles Darwin and Charles Lyell in the fields of evolutionary biology and geology respectively. 
 
-<iframe
- src="assets/map_of_england.png"
- style="width: 100%; height: auto; aspect-ratio: 16/9; border: none;" scrolling="no">
- </iframe>
+<img src="assets/map_of_england.png" alt="Diagram" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
 
 
 # Smith's contributions
@@ -32,10 +29,7 @@ Smith came from a relatively poor small family of farmers so he initially did no
 
 Smith's technique of using fossils to date rock layers is still relevant today and it is known as the principle of faunal succession. In practice, Geologists use fossils from organisms that are known to have existed at a specific period of time which tells them about the rock layer in which they formed. These are called Key Index Fossils or just Index Fossils. These fossils are characterized by only forming in a short period of time relative to the geologic timescale. Ideally, Index Fossils are widespread and also abundant which would make finding the fossil easier and also enable more rock layers to be dated around the world. For example, fossils from Trilobites are popular index fossils because they evolved very quickly and existed between 521 to 252 million years ago (Geologyin, 2024). Although it is a long period of time, on a geological timescale having many fossils that are exclusively from this time period is useful since their existence almost perfectly lines up with the Paleozoic era. 
 
-<iframe
- src="assets/key_index_fossils.png"
- style="width: 100%; height: auto; aspect-ratio: 16/9; border: none;" scrolling="no">
- </iframe>
+<img src="assets/key_index_fossils.png" alt="Diagram" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
 
 # Influence on Darwin
 
