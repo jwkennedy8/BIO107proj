@@ -19,6 +19,8 @@ William Smith was an English Geologist who was known for creating a geologic map
 
 <img src="assets/map_of_england.png" alt="Diagram" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
 
+*Smith's map of England from 1815. He chose the colors of each region to reflect the natural hues from the rock layers. The shading technique is to make the map appear 3 dimensional.*
+
 
 # Smith's contributions
 
@@ -30,6 +32,8 @@ Smith came from a relatively poor small family of farmers so he initially did no
 Smith's technique of using fossils to date rock layers is still relevant today and it is known as the principle of faunal succession. In practice, Geologists use fossils from organisms that are known to have existed at a specific period of time which tells them about the rock layer in which they formed. These are called Key Index Fossils or just Index Fossils. These fossils are characterized by only forming in a short period of time relative to the geologic timescale. Ideally, Index Fossils are widespread and also abundant which would make finding the fossil easier and also enable more rock layers to be dated around the world. For example, fossils from Trilobites are popular index fossils because they evolved very quickly and existed between 521 to 252 million years ago (Geologyin, 2024). Although it is a long period of time, on a geological timescale having many fossils that are exclusively from this time period is useful since their existence almost perfectly lines up with the Paleozoic era. 
 
 <img src="assets/key_index_fossils.png" alt="Diagram" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+
+*An example of key index fossils lining up with specific eras/periods in time. The organisms for each of these fossils lived around the time it lines up with on the lefthand side. For example, if you found a Scaphites hippocrepis in a rock layey, you would know that the rocks were from the cretaceous period without having to do any analysis on the rocks themselves*
 
 # Influence on Darwin
 
